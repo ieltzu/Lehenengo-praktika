@@ -9,6 +9,7 @@ public class kaixo {
 		return mezua;
 	}
 	public void inprimatu(){
+		//komentarioak jarrita.
 		System.out.println(this.getMezua());
 	}
 }
